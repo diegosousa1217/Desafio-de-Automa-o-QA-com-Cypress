@@ -1,0 +1,34 @@
+# Node modules
+
+node\_modules/
+
+# Cypress artifacts
+
+cypress/videos/
+cypress/screenshots/
+
+# Logs
+
+npm-debug.log\*
+yarn-debug.log\*
+yarn-error.log\*
+
+# Environment files
+
+.env
+.env.\*
+
+# System files
+
+.DS\_Store
+Thumbs.db
+
+# VSCode settings
+
+.vscode/
+
+# Output folders
+
+dist/
+build/
+coverage/
